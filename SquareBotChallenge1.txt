@@ -1,0 +1,5 @@
+1.  Describe how the Shaft Encoders provided useful feedback for driving straight and turning.
+
+2.  Write code that would cause your SquareBot to trace out a golf flag.  (4 ft high, 1 foot long flag)
+
+Start at the bottom.  Add comments to let me know what you think the code is doing!
